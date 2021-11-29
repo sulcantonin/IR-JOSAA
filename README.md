@@ -10,24 +10,24 @@ We propose an inverse rendering model for light fields to recover surface normal
 All videos show a series of images where the left top image is the input image and ground truth, the right top re-rendered image with the estimated parameters (normals, BRDF and illumination). The left bottom image shows a sphere that is rendered with ground truth illumination and BRDF and the right image shows the same sphere geometry as the right but rendered with estimated BRDF and illumination. Each consecutive frame is rendered with a sliding envmap.
 
 ## Arria, gold-paint BRDF, envmap natural illumination 
-![Visualisation 1](supplementary/thumbnails/Visualisation 1.png)
+![Visualisation 1](supplementary/thumbnails/Visualisation1.png)
 
-[Visualisation 1](supplementary/Visualisation 1.mp4)
+[Visualisation 1](supplementary/Visualisation1.mp4)
 
   ## Arria, pure-rubber BRDF, terrace natural illumination 
-![Visualisation 2](supplementary/thumbnails/Visualisation 2.png)
+![Visualisation 2](supplementary/thumbnails/Visualisation2.png)
 
-[Visualisation 2](supplementary/Visualisation 2.mp4)
+[Visualisation 2](supplementary/Visualisation2.mp4)
 
 # Lochardil, silver-metallic-paint BRDF, terrace illumination
-![Visualisation 3](supplementary/thumbnails/Visualisation 3.png)
+![Visualisation 3](supplementary/thumbnails/Visualisation3.png)
 
-[Visualisation 3](supplementary/Visualisation 3.mp4)
+[Visualisation 3](supplementary/Visualisation3.mp4)
 
 # Lochardil, teflon BRDF, doge2 illumination
-![Visualisation 4](supplementary/thumbnails/Visualisation 4.png)
+![Visualisation 4](supplementary/thumbnails/Visualisation4.png)
 
-[Visualisation 4](supplementary/Visualisation 4.mp4)
+[Visualisation 4](supplementary/Visualisation4.mp4)
 
 
 # Data 
