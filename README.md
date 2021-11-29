@@ -14,17 +14,17 @@ All videos show a series of images where the left top image is the input image a
 
 [Visualisation 1](supplementary/Visualisation1.mp4)
 
-  ## Arria, pure-rubber BRDF, terrace natural illumination 
+## Arria, pure-rubber BRDF, terrace natural illumination 
 ![Visualisation 2](supplementary/thumbnails/Visualisation2.png)
 
 [Visualisation 2](supplementary/Visualisation2.mp4)
 
-# Lochardil, silver-metallic-paint BRDF, terrace illumination
+## Lochardil, silver-metallic-paint BRDF, terrace illumination
 ![Visualisation 3](supplementary/thumbnails/Visualisation3.png)
 
 [Visualisation 3](supplementary/Visualisation3.mp4)
 
-# Lochardil, teflon BRDF, doge2 illumination
+## Lochardil, teflon BRDF, doge2 illumination
 ![Visualisation 4](supplementary/thumbnails/Visualisation4.png)
 
 [Visualisation 4](supplementary/Visualisation4.mp4)
