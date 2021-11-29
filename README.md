@@ -10,7 +10,7 @@ We propose an inverse rendering model for light fields to recover surface normal
 All videos show a series of images where the left top image is the input image and ground truth, the right top re-rendered image with the estimated parameters (normals, BRDF and illumination). The left bottom image shows a sphere that is rendered with ground truth illumination and BRDF and the right image shows the same sphere geometry as the right but rendered with estimated BRDF and illumination. Each consecutive frame is rendered with a sliding envmap.
 
 ## Arria, gold-paint BRDF, envmap natural illumination 
-![Visualisation 1](supplementary/thumbnails/Visualisation1.png)
+![Visualisation 1](supplementary/thumbnails/Visualisation1.png "Visualisation")
 
 [Visualisation 1](supplementary/Visualisation1.mp4)
 
