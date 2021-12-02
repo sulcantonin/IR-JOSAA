@@ -42,16 +42,26 @@ Description TBD
 
 [190618_sphere.zip](https://drive.google.com/file/d/1nR0v9ubnU_75WjnCf-fKJuBD-bz8KSK_/view?usp=sharing)
 
+MD5 `c3ce70fcd30497d9e3a9d9c3aa890a40`.
+
 ### Arria
 [190710-arria.zip](https://drive.google.com/file/d/1wAkbNsQxC56vySQMJ0u_HfFgj_5piO3e/view?usp=sharing)
 
+MD5 `eb3d71f71aa1c4a369e8c30b7bcd31fd`.
+
 ### Lochardil
 [190710-lochardil.zip](https://drive.google.com/file/d/1t0h-9Kr63z_27fvYNJNQAMs82Z7uvITt/view?usp=sharing)
+
+MD5 `aa8580cf2afc65904dfa5891e07cc023`.
 
 ## Lytro Datasets
 
 ### Plastic Crocodile
 [lytro_crocodile.zip](https://drive.google.com/file/d/1WCTas6jVT4ql6dWkhQ6k1ooShSYW2JJK/view?usp=sharing)
 
+MD5 `6650d1314f21cc43ff800502a388e534`.
+
 ### Ceramic Elephant
 [lytro_elephant3.zip](https://drive.google.com/file/d/1hikZzUZ-0OiYb8USKniCmmx2Gtj_kc2T/view?usp=sharing)
+
+MD5 `928fe87ff11241f7f632e0a770f8786f`.
