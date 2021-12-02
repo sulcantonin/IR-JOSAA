@@ -31,4 +31,27 @@ All videos show a series of images where the left top image is the input image a
 
 
 # Data 
-💪 TBD
+
+Following links will redirect you to Google Drive archived files. 
+
+Description TBD
+
+## Raytraced Datasets 
+
+### Sphere
+
+[190618_sphere.zip](https://drive.google.com/file/d/1nR0v9ubnU_75WjnCf-fKJuBD-bz8KSK_/view?usp=sharing)
+
+### Arria
+[190710-arria.zip](https://drive.google.com/file/d/1wAkbNsQxC56vySQMJ0u_HfFgj_5piO3e/view?usp=sharing)
+
+### Lochardil
+[190710-lochardil.zip](https://drive.google.com/file/d/1t0h-9Kr63z_27fvYNJNQAMs82Z7uvITt/view?usp=sharing)
+
+## Lytro Datasets
+
+### Plastic Crocodile
+[lytro_crocodile.zip](https://drive.google.com/file/d/1WCTas6jVT4ql6dWkhQ6k1ooShSYW2JJK/view?usp=sharing)
+
+### Ceramic Elephant
+[lytro_elephant3.zip](https://drive.google.com/file/d/1hikZzUZ-0OiYb8USKniCmmx2Gtj_kc2T/view?usp=sharing)
